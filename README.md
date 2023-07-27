@@ -49,7 +49,6 @@ The interpreter supports the following basic arithmetic operations:
 ```python
 > 10 - 5
   5
-
 ```
 - Multiplication (*)
 ```python
