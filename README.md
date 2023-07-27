@@ -35,12 +35,43 @@ python interpreter.py
 
 The interpreter supports the following basic arithmetic operations:
 
+- self
+```
+> 5
+  5
+```
 - Addition (+)
+```
+> 2 + 3
+  5
+```
 - Subtraction (-)
-- Multiplication (*)
-- Division (/)
+```python
+> 10 - 5
+  5
 
-It also respects the order of operations, meaning that expressions inside parentheses will be evaluated first.
+```
+- Multiplication (*)
+```python
+> 4 * 6
+  24
+```
+- Division (/)
+```
+> 20 / 5
+  4
+```
+- Paranthesis( () )
+```
+> (2 + 3) * 4
+  20
+```
+- Combination
+```
+> 10 + 2 * (8 - 4)
+  18
+```
+
 
 ## License
 
