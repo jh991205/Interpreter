@@ -46,12 +46,12 @@ The interpreter supports the following basic arithmetic operations:
   5
 ```
 - Subtraction (-)
-```python
+```
 > 10 - 5
   5
 ```
 - Multiplication (*)
-```python
+```
 > 4 * 6
   24
 ```
