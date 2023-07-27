@@ -6,9 +6,6 @@ Welcome to the Python Basic Arithmetic Interpreter! This interpreter is a simple
 
 - [Getting Started](#getting-started)
 - [Supported Operations](#supported-operations)
-- [Usage](#usage)
-- [Examples](#examples)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Getting Started
