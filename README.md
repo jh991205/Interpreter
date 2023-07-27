@@ -44,4 +44,4 @@ It also respects the order of operations, meaning that expressions inside parent
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the APACHE License 2.0 - see the [LICENSE](LICENSE) file for details.
