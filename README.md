@@ -25,6 +25,12 @@ Clone this repository to your local machine or simply download the `interpreter.
 git clone https://github.com/jh991205/interpreter
 ```
 
+Simply run the interpreter.py file on your local machine and you can try out all the supported Operations listed below
+
+```bash
+python interpreter.py
+```
+
 ## Supported Operations
 
 The interpreter supports the following basic arithmetic operations:
@@ -35,16 +41,6 @@ The interpreter supports the following basic arithmetic operations:
 - Division (/)
 
 It also respects the order of operations, meaning that expressions inside parentheses will be evaluated first.
-
-## Contributing
-
-We welcome contributions to enhance the interpreter and add new features. If you would like to contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or improvement.
-3. Make your changes and commit them.
-4. Push your changes to your fork.
-5. Submit a pull request to this repository.
 
 ## License
 
